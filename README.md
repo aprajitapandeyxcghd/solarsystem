@@ -15,7 +15,7 @@ git clone https://github.com/aprajitapandeyxcghd/solarsystem.git
 
 cd solar-system
 
-2. Install Dependencies
+Install Dependencies
 
 Make sure you have Node.js (v16 or above) installed.
 
