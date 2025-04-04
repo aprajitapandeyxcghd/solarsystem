@@ -11,8 +11,16 @@ Built with Three.js and Vite for a seamless experience
 
 Getting Started:
 Clone the repository
+git clone https://github.com/aprajitapandeyxcghd/solarsystem.git
+cd solar-system
+2. Install Dependencies
+Make sure you have Node.js (v16 or above) installed.
 
-Run: npx vite
+Install project dependencies using:
+npm install
+
+Run the project locally with Vite:
+npx vite
 
 Open http://localhost:5173 in your browser
 
